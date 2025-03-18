@@ -1,4 +1,4 @@
-# Simple-WebApp-For-CleaningCamProject
+# Simple Web App For Cleaning Security Cameras Project
 This is a responsive web application designed for the Cleaning Cam Project, developed under the supervision of Eng. Magdy & Dr. Mohamed Rahmawy. The application features a user-friendly interface, interactive elements, and smooth animations to enhance the user experience.
 Features  
 ![Screen Shot](Assets/ScreenShot.png)
