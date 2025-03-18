@@ -4,12 +4,11 @@ Features
 ![Screen Shot](Assets/ScreenShot.png)
 
 
-✅ Responsive design for all screen sizes
-✅ Sidebar navigation with university logo and project details
-✅ Interactive "Clean My Cam Now!" button with GIF animation
-✅ Fixed footer with university credits and contact information
-✅ Smooth transition effects between static images and GIFs
-Tech Stack
+✅ Responsive design for all screen sizes  
+✅ Sidebar navigation with university logo and project details  
+✅ Interactive "Clean My Cam Now!" button with GIF animation  
+✅ Fixed footer with university credits and contact information  
+✅ Smooth transition effects between static images and GIFs Tech Stack
 
     HTML, CSS, JavaScript for frontend
     GitHub Pages / Netlify / Vercel (for hosting, if applicable)
