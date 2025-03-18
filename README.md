@@ -14,11 +14,9 @@ Tech Stack
     HTML, CSS, JavaScript for frontend
     GitHub Pages / Netlify / Vercel (for hosting, if applicable)
 
-How to Use
+How to Use    
 
-    Clone the repository:
-
-git clone https://github.com/yourusername/Simple-WebApp-For-CleaningCamProject.git
+    Clone the repository: git clone https://github.com/yourusername/Simple-WebApp-For-CleaningCamProject.git
 
 Open index.html in a browser.
 Click the "Clean My Cam Now!" button to see the animated effect.
